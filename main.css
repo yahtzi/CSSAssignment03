@@ -34,7 +34,7 @@ p {
 }
 
 .album-art {
-	border: 1px solid #8f140b;
+	border: 2.5px solid #cf0000;
 	margin: 15px 30px 15px 35px;
 	padding: 15px 15px;
 	width: 90px;
@@ -47,7 +47,7 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	border: 3px solid #8f140b;
+	border: 2.5px solid #cf0000;
 	margin: 15px 30px 15px 35px;
 	padding: 15px 15px;
 	width: 150px;
@@ -64,7 +64,7 @@ p {
 }
 
 #about-photo {
-	border: 3px solid #8f140b;
+	border: 2.5px solid #8f140b;
 	margin: 15px 30px 15px 35px;
 	padding: 15px 15px;
 	float: left;
@@ -76,14 +76,14 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-	border: 3px solid #8f140b;
+	border: 2.5px solid #8f140b;
 	margin: 50px 5px 25px 5px;
 	padding: 15px 15px;
 }
 
 #text-intro {
 	color: red;
-	border: 2px solid red;
+	border: 2.5px solid #8f140b;
 	background-color: #424242;
 	margin: 50px 5px 25px 5px;
 	padding: 18px 18px;
