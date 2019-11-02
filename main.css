@@ -40,6 +40,8 @@ p {
 	width: 90px;
 	height: 90px;
 	float: left;
+	border-bottom: 2px;
+	
 }
 
 .clear {
